@@ -25,7 +25,7 @@ Jupyter Notebook Viewer: [Jupyter Viewer](https://nbviewer.org/github/jablonsky/
 
 
 ## HTML version  
-- [Understanding Ranges] ()
+- [Understanding Ranges](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jablonsky/python-learning-fundamentals/refs/heads/main/docs/range.html)
 - [For Loops](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jablonsky/python-learning-fundamentals/refs/heads/main/docs/For%20Loops.html)
 - 
 - 
