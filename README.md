@@ -17,6 +17,15 @@ Jupyter Notebook Viewer: [Jupyter Viewer](https://nbviewer.org/github/jablonsky/
 ## Loops
 
 - [Understanding range object](range.ipynb)
-- [For Loops](For%20Loops.ipynb) [HTML version: For Loops](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jablonsky/python-learning-fundamentals/refs/heads/main/docs/For%20Loops.html)
+- [For Loops](For%20Loops.ipynb)
+-
+-
+-
+
+
+
+## HTML version  
+- [Understanding Ranges] ()
+- [For Loops](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jablonsky/python-learning-fundamentals/refs/heads/main/docs/For%20Loops.html)
 - 
 - 
