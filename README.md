@@ -5,6 +5,8 @@ Python learning fundamentals materials (video materials) - personal learning
 
 These are my personal Python study notes and practical examples.
 
+Jupyter Notebook Viewer: [Jupyter Viewer](https://nbviewer.org/github/jablonsky/python-learning-fundamentals/tree/main/)
+
 ## Topics
 
 ## Strings
