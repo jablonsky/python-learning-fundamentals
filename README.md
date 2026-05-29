@@ -14,6 +14,6 @@ These are my personal Python study notes and practical examples.
 
 ## Loops
 
-- [Understanding range object](The20%range20%Function.ipynb)
+- [Understanding range object](range.ipynb)
 - 
 - 
