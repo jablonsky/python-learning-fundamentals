@@ -17,5 +17,6 @@ Jupyter Notebook Viewer: [Jupyter Viewer](https://nbviewer.org/github/jablonsky/
 ## Loops
 
 - [Understanding range object](range.ipynb)
+- [For Loops](For%20Loops.ipynb)
 - 
 - 
