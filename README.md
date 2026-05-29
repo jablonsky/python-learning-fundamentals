@@ -8,5 +8,5 @@ These are my personal Python study notes and practical examples.
 ## Topics
 
 - [Unicode](Unicode.ipynb)
-- [String Methods](03_01_strings/string_methods.ipynb)
+- [String Methods](Common String Methods.ipynb)
 - [Sorting Lists and Tuples](03_02_lists_tuples/sorting_lists.ipynb)
